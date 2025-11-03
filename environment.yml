@@ -1,0 +1,17 @@
+name: covid-forecast
+channels: [conda-forge, defaults]
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - statsmodels
+  - prophet
+  - jupyter
+  - scikit-learn 
+  - ipykernel
+  - requests
+  - pip
+  - pip:
+      - streamlit
