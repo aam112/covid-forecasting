@@ -53,9 +53,7 @@ Forecast national SARS-CoV-2 viral activity in wastewater eight weeks ahead usin
 ## Live Report
 
 View the rendered Jupyter notebook on GitHub Pages:  
-[Forecast Report](https://<your-username>.github.io/covid-forecasting/01_forecast.html)  
-*(Replace `aam112` with your GitHub handle once Pages is active.)*
-
+[Forecast Report](https://aam112.github.io/covid-forecasting/01_forecast.html)  
 ---
 
 ## Environment Setup
